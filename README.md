@@ -1,4 +1,4 @@
-# Repostirio sobre desafio de projeto DIO
+# Repositório sobre desafio de projeto DIO
 Desafio de projeto para bootcamp Everis da Dio
 
 ## Links uteis  
